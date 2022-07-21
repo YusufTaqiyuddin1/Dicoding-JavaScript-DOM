@@ -1,0 +1,16 @@
+input[type="button"] {
+  width: 200px;
+  font-size: 15px;
+  margin: 8px;
+  padding: 3px;
+}
+
+.main {
+  margin: 2px;
+  text-align: -webkit-center;
+}
+
+#gambar{
+    width: 300px;
+    height: 270px;
+}

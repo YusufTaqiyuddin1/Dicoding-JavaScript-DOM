@@ -1,0 +1,1 @@
+alert("Klik OK untuk menampilkan halaman website");
