@@ -1,0 +1,31 @@
+.contents{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid black;
+    padding: 15px;
+    text-align: -webkit-center;
+}
+
+#incrementButton{
+    background-color: blueviolet;
+    border-radius: 4px;
+    width: 100%;
+    height: 30px;
+    cursor: pointer;
+}
+
+#incrementButton:hover{
+    background-color: violet;
+}
+
+#incrementButton:active{
+    background-color: blueviolet;
+    transform: translateY(2px)
+}
+
+#generateButton{
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
